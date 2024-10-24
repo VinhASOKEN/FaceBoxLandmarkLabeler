@@ -13,12 +13,12 @@ pip install requirements.txt
 
 
 ## Usage
-### 1.Create an empty label file:
+### 1. Create an empty label file
 ```bash
 python create_file_label_txt.py
 ```
 
-### 2. Launch the labeling tool:
+### 2. Launch the labeling tool
 ```bash
 python face_landmarks_labeling.py
 ```
