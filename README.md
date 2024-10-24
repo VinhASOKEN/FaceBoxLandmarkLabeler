@@ -18,7 +18,7 @@ pip install requirements.txt
 python create_file_label_txt.py
 ```
 
-### aunch the labeling tool:
+### 2. Launch the labeling tool:
 ```bash
 python face_landmarks_labeling.py
 ```
